@@ -1,1 +1,3 @@
 # gameVanillaJS
+
+open index.html
